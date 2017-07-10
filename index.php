@@ -70,7 +70,7 @@
 			<footer class="footer bg_bluedark">
 				<div class="footer-bottom">
 					<span class="txt-lf">Blog &copy;. Todos os direitos reservados.</span>
-					<span class="txt-rg">Desenvolvido com muito orgulho.</span>
+					<span class="txt-rg">Desenvolvido com muito trabaho.</span>
 				</div>
 			</footer><!-- Footer -->
 		</div><!-- Content -->
